@@ -43,21 +43,21 @@ Below are the screenshots of the **Fitness** app UI:
 Below are the screenshots of the **Foodly** app UI:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/Screenshot%20(11).png" alt="Foodly Screenshot 1" width="500"/>
-  <img src="images/Screenshot%20(12).png" alt="Foodly Screenshot 2" width="200"/>
-  <img src="images/Screenshot%20(13).png" alt="Foodly Screenshot 3" width="200"/>
-  <img src="images/Screenshot%20(14).png" alt="Foodly Screenshot 4" width="200"/>
-  <img src="images/Screenshot%20(15).png" alt="Foodly Screenshot 5" width="200"/>
-  <img src="images/Screenshot%20(16).png" alt="Foodly Screenshot 6" width="200"/>
-  <img src="images/Screenshot%20(17).png" alt="Foodly Screenshot 7" width="200"/>
-  <img src="images/Screenshot%20(18).png" alt="Foodly Screenshot 8" width="200"/>
-  <img src="images/Screenshot%20(19).png" alt="Foodly Screenshot 9" width="200"/>
-  <img src="images/Screenshot%20(20).png" alt="Foodly Screenshot 10" width="200"/>
-  <img src="images/Screenshot%20(21).png" alt="Foodly Screenshot 11" width="200"/>
-  <img src="images/Screenshot%20(22).png" alt="Foodly Screenshot 12" width="200"/>
-  <img src="images/Screenshot%20(23).png" alt="Foodly Screenshot 13" width="200"/>
-  <img src="images/Screenshot%20(24).png" alt="Foodly Screenshot 14" width="200"/>
-  <img src="images/Screenshot%20(25).png" alt="Foodly Screenshot 15" width="200"/>
+  <img src="images/Screenshot%20(11).png" alt="Foodly Screenshot 1" width="600"/>
+  <img src="images/Screenshot%20(12).png" alt="Foodly Screenshot 2" width="600"/>
+  <img src="images/Screenshot%20(13).png" alt="Foodly Screenshot 3" width="600"/>
+  <img src="images/Screenshot%20(14).png" alt="Foodly Screenshot 4" width="600"/>
+  <img src="images/Screenshot%20(15).png" alt="Foodly Screenshot 5" width="600"/>
+  <img src="images/Screenshot%20(16).png" alt="Foodly Screenshot 6" width="600"/>
+  <img src="images/Screenshot%20(17).png" alt="Foodly Screenshot 7" width="600"/>
+  <img src="images/Screenshot%20(18).png" alt="Foodly Screenshot 8" width="600"/>
+  <img src="images/Screenshot%20(19).png" alt="Foodly Screenshot 9" width="600"/>
+  <img src="images/Screenshot%20(20).png" alt="Foodly Screenshot 10" width="600"/>
+  <img src="images/Screenshot%20(21).png" alt="Foodly Screenshot 11" width="600"/>
+  <img src="images/Screenshot%20(22).png" alt="Foodly Screenshot 12" width="600"/>
+  <img src="images/Screenshot%20(23).png" alt="Foodly Screenshot 13" width="600"/>
+  <img src="images/Screenshot%20(24).png" alt="Foodly Screenshot 14" width="600"/>
+  <img src="images/Screenshot%20(25).png" alt="Foodly Screenshot 15" width="600"/>
 </div>
 
 ---
