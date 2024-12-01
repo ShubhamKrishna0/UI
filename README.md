@@ -43,7 +43,7 @@ Below are the screenshots of the **Fitness** app UI:
 Below are the screenshots of the **Foodly** app UI:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/Screenshot%20(11).png" alt="Foodly Screenshot 1" width="200"/>
+  <img src="images/Screenshot%20(11).png" alt="Foodly Screenshot 1" width="500"/>
   <img src="images/Screenshot%20(12).png" alt="Foodly Screenshot 2" width="200"/>
   <img src="images/Screenshot%20(13).png" alt="Foodly Screenshot 3" width="200"/>
   <img src="images/Screenshot%20(14).png" alt="Foodly Screenshot 4" width="200"/>
