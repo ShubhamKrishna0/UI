@@ -7,29 +7,31 @@ Welcome to my UI showcase! Here, you can explore the user interfaces I've design
 [View the project on GitHub](https://github.com/ShubhamKrishna0/fitness.git)
 
 ### Screenshots
-Below are the screenshots of the Fitness app UI:
+Below are the screenshots of the **Fitness** app UI:
 
-- ![Screenshot 1](images/Screenshot_1733048116.png)
-- ![Screenshot 2](images/Screenshot_1733048123.png)
-- ![Screenshot 3](images/Screenshot_1733048125.png)
-- ![Screenshot 4](images/Screenshot_1733048128.png)
-- ![Screenshot 5](images/Screenshot_1733048133.png)
-- ![Screenshot 6](images/Screenshot_1733048139.png)
-- ![Screenshot 7](images/Screenshot_1733048160.png)
-- ![Screenshot 8](images/Screenshot_1733048162.png)
-- ![Screenshot 9](images/Screenshot_1733048169.png)
-- ![Screenshot 10](images/Screenshot_1733048173.png)
-- ![Screenshot 11](images/Screenshot_1733048179.png)
-- ![Screenshot 12](images/Screenshot_1733048184.png)
-- ![Screenshot 13](images/Screenshot_1733048197.png)
-- ![Screenshot 14](images/Screenshot_1733048202.png)
-- ![Screenshot 15](images/Screenshot_1733048205.png)
-- ![Screenshot 16](images/Screenshot_1733048231.png)
-- ![Screenshot 17](images/Screenshot_1733048257.png)
-- ![Screenshot 18](images/Screenshot_1733048261.png)
-- ![Screenshot 19](images/Screenshot_1733048265.png)
-- ![Screenshot 20](images/Screenshot_1733048272.png)
-- ![Screenshot 21](images/Screenshot_1733048276.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/Screenshot_1733048116.png" alt="Fitness Screenshot 1" width="200"/>
+  <img src="images/Screenshot_1733048123.png" alt="Fitness Screenshot 2" width="200"/>
+  <img src="images/Screenshot_1733048125.png" alt="Fitness Screenshot 3" width="200"/>
+  <img src="images/Screenshot_1733048128.png" alt="Fitness Screenshot 4" width="200"/>
+  <img src="images/Screenshot_1733048133.png" alt="Fitness Screenshot 5" width="200"/>
+  <img src="images/Screenshot_1733048139.png" alt="Fitness Screenshot 6" width="200"/>
+  <img src="images/Screenshot_1733048160.png" alt="Fitness Screenshot 7" width="200"/>
+  <img src="images/Screenshot_1733048162.png" alt="Fitness Screenshot 8" width="200"/>
+  <img src="images/Screenshot_1733048169.png" alt="Fitness Screenshot 9" width="200"/>
+  <img src="images/Screenshot_1733048173.png" alt="Fitness Screenshot 10" width="200"/>
+  <img src="images/Screenshot_1733048179.png" alt="Fitness Screenshot 11" width="200"/>
+  <img src="images/Screenshot_1733048184.png" alt="Fitness Screenshot 12" width="200"/>
+  <img src="images/Screenshot_1733048197.png" alt="Fitness Screenshot 13" width="200"/>
+  <img src="images/Screenshot_1733048202.png" alt="Fitness Screenshot 14" width="200"/>
+  <img src="images/Screenshot_1733048205.png" alt="Fitness Screenshot 15" width="200"/>
+  <img src="images/Screenshot_1733048231.png" alt="Fitness Screenshot 16" width="200"/>
+  <img src="images/Screenshot_1733048257.png" alt="Fitness Screenshot 17" width="200"/>
+  <img src="images/Screenshot_1733048261.png" alt="Fitness Screenshot 18" width="200"/>
+  <img src="images/Screenshot_1733048265.png" alt="Fitness Screenshot 19" width="200"/>
+  <img src="images/Screenshot_1733048272.png" alt="Fitness Screenshot 20" width="200"/>
+  <img src="images/Screenshot_1733048276.png" alt="Fitness Screenshot 21" width="200"/>
+</div>
 
 ---
 
@@ -38,23 +40,25 @@ Below are the screenshots of the Fitness app UI:
 [View the project on GitHub](https://github.com/ShubhamKrishna0/foodly_frontend.git)
 
 ### Screenshots
-Below are the screenshots of the Foodly app UI:
+Below are the screenshots of the **Foodly** app UI:
 
-- ![Screenshot 1](images/Screenshot%20(11).png)
-- ![Screenshot 2](images/Screenshot%20(12).png)
-- ![Screenshot 3](images/Screenshot%20(13).png)
-- ![Screenshot 4](images/Screenshot%20(14).png)
-- ![Screenshot 5](images/Screenshot%20(15).png)
-- ![Screenshot 6](images/Screenshot%20(16).png)
-- ![Screenshot 7](images/Screenshot%20(17).png)
-- ![Screenshot 8](images/Screenshot%20(18).png)
-- ![Screenshot 9](images/Screenshot%20(19).png)
-- ![Screenshot 10](images/Screenshot%20(20).png)
-- ![Screenshot 11](images/Screenshot%20(21).png)
-- ![Screenshot 12](images/Screenshot%20(22).png)
-- ![Screenshot 13](images/Screenshot%20(23).png)
-- ![Screenshot 14](images/Screenshot%20(24).png)
-- ![Screenshot 15](images/Screenshot%20(25).png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/Screenshot%20(11).png" alt="Foodly Screenshot 1" width="200"/>
+  <img src="images/Screenshot%20(12).png" alt="Foodly Screenshot 2" width="200"/>
+  <img src="images/Screenshot%20(13).png" alt="Foodly Screenshot 3" width="200"/>
+  <img src="images/Screenshot%20(14).png" alt="Foodly Screenshot 4" width="200"/>
+  <img src="images/Screenshot%20(15).png" alt="Foodly Screenshot 5" width="200"/>
+  <img src="images/Screenshot%20(16).png" alt="Foodly Screenshot 6" width="200"/>
+  <img src="images/Screenshot%20(17).png" alt="Foodly Screenshot 7" width="200"/>
+  <img src="images/Screenshot%20(18).png" alt="Foodly Screenshot 8" width="200"/>
+  <img src="images/Screenshot%20(19).png" alt="Foodly Screenshot 9" width="200"/>
+  <img src="images/Screenshot%20(20).png" alt="Foodly Screenshot 10" width="200"/>
+  <img src="images/Screenshot%20(21).png" alt="Foodly Screenshot 11" width="200"/>
+  <img src="images/Screenshot%20(22).png" alt="Foodly Screenshot 12" width="200"/>
+  <img src="images/Screenshot%20(23).png" alt="Foodly Screenshot 13" width="200"/>
+  <img src="images/Screenshot%20(24).png" alt="Foodly Screenshot 14" width="200"/>
+  <img src="images/Screenshot%20(25).png" alt="Foodly Screenshot 15" width="200"/>
+</div>
 
 ---
 
